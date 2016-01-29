@@ -19,7 +19,4 @@
    ```
   Tried in the [Cmd Markdown编辑器](https://www.zybuluo.com), IT WORKS.
   
-  `**A little confused that why it can't work**`
-  <table><tr><td bgcolor=#7FFF00>
-  `**well, looks like I also failed in changing the color...**`
     
