@@ -4,10 +4,6 @@
 
 **Gender:** Female
 
-**Date of birth:** 20/03/94
-
-**Phone Number:** 00353892512827
-
 **E-mail address:** sunju@tcd.ie
 
 ## Education Background
