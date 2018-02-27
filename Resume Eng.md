@@ -13,7 +13,7 @@
 ## Education Background
 * * *
 * **2012-2016** Nanjing Forestry University `Major: English`
-* **2017-2018** Trinity College Dublin `Comparative Literature`
+* **2017-2018** Trinity College Dublin `Program: Comparative Literature`
 
 ## Working Experience ##
 * * *
