@@ -4,21 +4,20 @@
 
 **Gender:** Female
 
-**Date of birth:** xxxx.xx.xx
+**Date of birth:** 20/03/94
 
-**Phone Number:** xxxxxxx
+**Phone Number:** 00353892512827
 
-**E-mail address:** xxx@xxx
+**E-mail address:** sunju@tcd.ie
 
 ## Education Background
 * * *
 * **2012-2016** Nanjing Forestry University `Major: English`
+* **2017-2018** Trinity College Dublin `Comparative Literature`
 
 ## Working Experience ##
 * * *
 * **2012-2014:** 
-  + Vice Secretary of the Academic Department
-  + A member of Reception Team in Department
   + Editor and author of department magazine
   + Organize the 1st Model United Nations in NJFU
   + Take part in **Provincial Government Scholarship Program of Overseas Studies for Undergraduates** to study in **Duke University**
@@ -28,12 +27,13 @@
   + Interpretor assistance in **IDP**
   + Online volunteer of **UN**
   + Volunteer of **2015 Nanjing Major's International Consultative Conference**
+* **2015-2017**
+  + Freelance translator for **JETI** with three-hundred-thousand-word translation experience 
+  + Finish translating Alan Kay's *The Early History of Smalltalk*
   
-## Personal Qualities, Acdamic Honors and Activity
+## Personal Qualities, Academic Honors and Activity
 * * *
-* **CET4,6**
-* **TEM4:** both literacy and oracy
-* **SIA:** literacy
+* **TEM4, 8:** both literacy and oracy
 * **The First Prize in Chinese "Newspaper Cup" National Middle-school Student Composition Contest in Jiangsu Province** \(2011)
 * **The Second Prize in "Creativity Cup" National Middle-school Student Composition Contest in Jiangsu Province** \(2011)
 * **The Third Prize in “Classic and I” Network Essay Competition in Jiangsu Province** \(2011)
@@ -47,14 +47,9 @@
 * Only can read and still learning:
   + Français
   
-## Interests and hobbies
+## Interests
 * * *
-* Writing, reading, translating, poem reciting
-* Swimming, playing badminton and roller skating
-
-
-* * *
-Will you **hire** me?
-- [x] Yes :blush:
-- [ ] No :pensive:
+* Translation and its byproducts(eg. technology, history...)
+* Comparative study in literature, art and education
+* Digital humanities 
 
